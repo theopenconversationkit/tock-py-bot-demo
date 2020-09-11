@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import logging
-import os
+
 from typing import List
 
 from tock.bot import TockBot

@@ -4,8 +4,8 @@ Source code contains :
 
 - A sample html file for the chat widget : [web/index.html](web/index.html)
 - Simple python-based bot implementation
-    - [bot](bot.kt)
-    - [websocket](start-websoket.py) 
+    - [bot](bot.py)
+    - [websocket](start-websocket.py)
     - [webhook](start-webhook.py)
     
 Install dependencies :
