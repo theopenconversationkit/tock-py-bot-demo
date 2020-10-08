@@ -131,6 +131,4 @@ bot: TockBot = TockBot() \
     .namespace(namespace) \
     .register_bus(DemoBotBus) \
     .register_story(GreetingStory) \
-    .register_story(culture()) \
-    .add_story('goodbye', goodbye) \
-    .error_handler(error)
+    .register_story(culture)
